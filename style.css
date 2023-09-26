@@ -1,0 +1,119 @@
+
+
+
+
+#logo_epicode{
+    width: 15%;
+    margin-left: 20px;
+}
+
+.pagine{
+    padding: 10px;
+    border: 50px;
+}
+
+#logo{
+    text-align: left;
+
+}
+
+#header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightcyan;
+    margin-top: 0;
+}
+
+#container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#titolo{
+    font-size: 50px;
+    display: inline;
+    margin-left: 260px;
+}
+
+body{
+    margin: 0;
+}
+
+#sottotitolo{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
+    display: inline;
+}
+#navigazione{
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.pagine{
+    padding: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+main{
+    width: 60%;
+    height: 100%;
+    margin-left: 10px;
+}
+
+aside{
+width: 30%;
+display: inline;
+}
+
+h2{
+    margin: 0;
+    margin-left: 10px;
+    font-size: 35px;
+}
+
+h5{
+    margin: 0;
+    margin-left: 10px;
+
+}
+
+.corpo_articolo{
+    font-size: 20px;
+    text-align: left;
+    border: 2px solid black;
+    
+}
+
+#post{
+    width: 60%;
+
+}
+
+caption{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#tabella3{
+    font-size: 20px;
+    border: 2px solid black;
+}
+
+#css td{
+    border: 2px solid black;
+}
+
+main div{
+    width: 60%;
+}
+
+#newsletter{
+    font-size: 25px;
+}
