@@ -87,7 +87,6 @@ h5{
 .corpo_articolo{
     font-size: 20px;
     text-align: left;
-    border: 2px solid black;
     
 }
 
@@ -103,7 +102,6 @@ caption{
 
 #tabella3{
     font-size: 20px;
-    border: 2px solid black;
 }
 
 #css td{
