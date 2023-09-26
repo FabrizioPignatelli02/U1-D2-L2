@@ -117,3 +117,11 @@ main div{
 #newsletter{
     font-size: 25px;
 }
+
+.articoli_correlati a,p{
+    margin: 0;
+}
+
+.articoli_correlati{
+    margin-top: 10px;
+}
